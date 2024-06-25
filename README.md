@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-👋 Hi, I'm Vincenzo Arpaia!<br><br>I am a full-stack developer passionate about web development, science and music production. I love solving complex problems and creating innovative solutions.<br><br>- 🔭 I’m currently working on a React.js, Tone.js and Laravel project.<br>- 🌱 I’m currently learning Java.<br>- 👯 I’m looking to collaborate on React.js.<br>- 🤔 I’m looking for help with MERN stack.<br>- 📫 How to reach me: arpaia.vin@gmail.com.<br>- ⚡ Fun fact: I got a master degree in Organic Chemistry and collaborate to a couple of scientific papers about plastic recycling.<br>
+👋 Hi, I'm Vincenzo Arpaia!<br><br>I am a full-stack developer passionate about web development, science and music production. I love solving complex problems and creating innovative solutions.<br><br>- 🔭 I’m currently working on a React.js, Tone.js and Laravel project.<br>- 🌱 I’m currently learning Java and Spring Boot.<br>- 👯 I’m looking to collaborate on React.js.<br>- 🤔 I’m looking for help with MERN stack.<br>- 📫 How to reach me: arpaia.vin@gmail.com.<br>- ⚡ Fun fact: I got a master degree in Organic Chemistry and collaborate to a couple of scientific papers about plastic recycling.<br>
 
 
 ## 🌐 Socials:
